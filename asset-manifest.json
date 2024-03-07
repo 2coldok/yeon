@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yeon/static/css/main.435477fe.css",
+    "main.js": "/yeon/static/js/main.216eef3b.js",
+    "static/js/115.c075bad7.chunk.js": "/yeon/static/js/115.c075bad7.chunk.js",
+    "index.html": "/yeon/index.html",
+    "main.435477fe.css.map": "/yeon/static/css/main.435477fe.css.map",
+    "main.216eef3b.js.map": "/yeon/static/js/main.216eef3b.js.map",
+    "115.c075bad7.chunk.js.map": "/yeon/static/js/115.c075bad7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435477fe.css",
+    "static/js/main.216eef3b.js"
+  ]
+}
