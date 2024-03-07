@@ -4,7 +4,7 @@ import Show from "./componets/Show";
 import "./App.css";
 
 const octokit = new Octokit({
-  auth: "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",
+  auth: process.env.REACT_APP_GITHUB_TOKEN,
 });
 
 function App() {
