@@ -4,7 +4,7 @@ import Show from "./componets/Show";
 import "./App.css";
 
 const octokit = new Octokit({
-  auth: process.env.REACT_APP_GITHUB_TOKEN,
+  auth: process.env.REACT_APP_CAT.replaceAll('?', ''),
 });
 
 function App() {
